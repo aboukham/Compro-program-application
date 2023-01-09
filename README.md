@@ -1,2 +1,4 @@
 # Compro-program-application
-android application using Kotlin language
+Kotlin open source application to represent the computer professional program at MIU
+Technologies used:
+Glide library, NiftyDialogEffects, MPAndroidChart, ViewPager
