@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="trans_white">#60FFFFFF</color>
+    <color name="background">#F6F7F9</color>
+    <color name="red">#E32426</color>
+    <color name="buttons_icons">#a6a7a8</color>
+    <color name="top_taps">#51595c</color>
+    <color name="title_color">#1a242a</color>
+    <color name="green_mody">#879353</color>
+    <color name="green">#048975</color>
+    <color name="yellow">#f3c74a</color>
+    <color name="red_light">#eb8f91</color>
+    <color name="slider_indecator">#e3e6e5</color>
+    <color name="trans_black">#20000000</color>
+    <color name="inactive_menu_item">#C2C4C8</color>
+    <color name="finance_bg_item">#F8F8F8</color>
+    <color name="primary">#2E2924</color>
+    <color name="blue">#013676</color>
+    <color name="card_shadow">#e6e8ed</color>
+    <color name="finance_image_color">#81083093</color>
+    <color name="finance_apply_btn_color">#FFA441</color>
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+
+</resources>
